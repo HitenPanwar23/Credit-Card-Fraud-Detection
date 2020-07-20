@@ -1,4 +1,4 @@
-# Problem Staement
+# Problem Statement
 
 Credit Card Fraud Detection
 
